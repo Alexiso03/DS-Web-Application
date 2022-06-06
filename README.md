@@ -1,6 +1,6 @@
 # DS-Web-Application
 
-## This repository contains web based application for analysis of motor vehical collisions in new york city with effective dashboard and visualizations.
+## This repository contains web based application for analysis of motor vehicle collisions in new york city with effective dashboard and visualizations.
 
 The tools used for continuity of the applications are:
 1. Streamlit
