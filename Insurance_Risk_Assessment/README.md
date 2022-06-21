@@ -40,7 +40,7 @@ The model describes an insurance company who experiences two opposing cash flows
 
 ### Data
 
-Starting off with INITIAL_CAPITAL, with premium arrival at a constant INCOME_INTENSITY rate, claims are independent and identically distributed non-negative random variables (here we consider exponentially distributed claim size with positive CLAIM_MEAN) and arrive according to a Poisson process with INCOME_INTENSITY rate.
+Starting off with INITIAL_CAPITAL, with premium arrival at a constant INCOME_INTENSITY rate, claims are independent and identically distributed non-negative random variables (here I considered exponentially distributed claim size with positive CLAIM_MEAN) and arrive according to a Poisson process with INCOME_INTENSITY rate.
 
 ### Dashboard
 
